@@ -1,4 +1,5 @@
 name: build-image
+# Publishes ghcr.io/yehudraanan/nebius-trainer for Nebius MLOps Ex1 DDP.
 
 # Builds the DDP training image on GitHub's runners (fast network, no local
 # Docker, no slow upload from home) and publishes it to GHCR. Runs on every
