@@ -33,5 +33,5 @@ jobs:
           push: true
           # GHCR namespaces are lowercase; owner YehudRaanan -> yehudraanan
           tags: |
-            ghcr.io/yehudraanan/nebius-trainer:v1
+            ghcr.io/yehudraanan/nebius-trainer:v2
             ghcr.io/yehudraanan/nebius-trainer:latest
